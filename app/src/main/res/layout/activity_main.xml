@@ -25,7 +25,7 @@
         android:paddingBottom="8dp"
         android:paddingStart="16dp"
         android:paddingTop="8dp"
-        android:text="Hue"
+        android:text="@string/hue"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textSize="30sp" />
 
@@ -64,7 +64,7 @@
         android:paddingBottom="8dp"
         android:paddingStart="16dp"
         android:paddingTop="8dp"
-        android:text="Saturation"
+        android:text="@string/saturation"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textSize="30sp" />
 
@@ -103,7 +103,7 @@
         android:paddingBottom="8dp"
         android:paddingStart="16dp"
         android:paddingTop="8dp"
-        android:text="Value"
+        android:text="@string/value"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textSize="30sp" />
 
